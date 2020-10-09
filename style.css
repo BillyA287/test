@@ -1,0 +1,33 @@
+.top {
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.middle {
+     height: 100vh;
+  background-color: violet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom {
+    height: 100vh;
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
